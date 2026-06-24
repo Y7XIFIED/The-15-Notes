@@ -1,0 +1,7 @@
+{
+  "name": "the-15-notes",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "framework": null
+}

@@ -1,1 +1,44 @@
-<img width="500" height="287" alt="ScreenRecording2026-04-23at10 39 37-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d00d8d53-935c-4df6-81a7-251649ba72c5" />
+# the-15-notes
+
+A circular artist gallery featuring 15 music icons — built with vanilla JS, GSAP animations, and Vite.
+
+🔗 **Live Demo → [the-15-notes.vercel.app](https://the-15-notes.vercel.app)**
+
+---
+
+## ✨ Features
+
+- 25-card circular rotating gallery
+- Mouse parallax & 3D card flip on hover
+- Click-to-preview with GSAP text reveal animation
+- Smooth reset on click / Escape key
+- Responsive scaling for mobile & tablet
+
+---
+
+## 🚀 Local Development
+
+```bash
+# Install dependencies
+npm install
+
+# Start local dev server
+npm run dev
+# → http://localhost:5173
+
+# Build for production
+npm run build
+```
+
+---
+
+## 🛠️ Tech Stack
+
+- **Vite** — lightning-fast dev server & bundler
+- **GSAP 3** — animations & transitions
+- **Vanilla JS** — no frameworks
+- **Vanilla CSS** — custom font (Nasalization)
+
+---
+
+Made by **Y7XIFIED**

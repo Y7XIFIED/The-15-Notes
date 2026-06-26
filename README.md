@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/the-15-notes.git
-cd the-15-notes
+git clone https://github.com/Y7XIFIED/The-15-Notes.git
+cd The-15-Notes
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-the-15-notes/
+The-15-Notes/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json

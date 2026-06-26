@@ -5,7 +5,7 @@
 Experience an incredible interactive journey. This visually stunning piece of code is designed to wow and engage!
 
 ## 🚀 Live Website
-Experience the fully interactive website live here: [https://the-15-notes.vercel.app](https://the-15-notes.vercel.app)
+Experience the fully interactive website live here: [Live Demo](https://the-15-notes.vercel.app)
 
 ## Preview
 ![Preview Demo](preview.gif)
